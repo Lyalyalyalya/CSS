@@ -1,0 +1,22 @@
+.heroUnit {
+    background-color: #ffffff;
+}
+.heroContent {
+    margin: 0 auto;
+    padding: 64px 0 48px;
+    max-width: 600px;
+}
+.layout {
+    width: auto;
+    margin-left: 140px;
+    margin-right: 120px;
+}
+.cardGrid {
+    padding: 64px 0;
+}
+.card {
+    height: 100%;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+}
